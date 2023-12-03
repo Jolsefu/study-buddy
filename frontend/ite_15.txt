@@ -1,0 +1,44 @@
+is a code of behavior that is defined by the group to which an individual belongs|Ethics
+are the personal principles upon which an individual bases his or her decisions about what is right and what is wrong.|Morals
+are core beliefs formed and adhered to by an individual.|Morals
+is a habit that inclines people to do what is acceptable.|Virtue
+is a habit of unacceptable behavior.|Vice
+A person who acts with ____ acts in accordance with a personal code of principles.|Integrity
+is a system of rules that tells us what we can and cannot do.|Law
+are enforced by a set of institutions (the police, courts, law-making bodies)|Laws
+are acts that conform to the law.|Legal acts
+conform to what an individual believes to be the right thing to do.|Moral acts
+this behavior in the business world can lead to serious negative consequences for both organizations and individuals.|Unethical behavior
+The moral corruption of people in power, which is often facilitated by a tendency for people to look the other way when their leaders act inappropriately.|Bathsheba Syndrome
+A reference to the biblical story of King David, who became corrupted by his power and success.|Bathsheba Syndrome
+is the concept that an organization should act ethically by taking responsibility for the impact of its actions on its shareholders, consumers, employees, community, environment, and suppliers.|Corporate Social Responsibility
+Five Good Reasons to Pursue CSR Goals|Gaining the goodwill of the community|Creating an organization that operates consistently|Fostering good business practices|Protecting the organization and its employees from legal action|Avoiding unfavorable publicity
+This person provides an organization with vision and leadership in the area of business conduct.|corporate ethics officer
+is responsible for the careful and responsible management of an organization.|Board of directors
+is a statement that highlights an organization’s key ethical issues and identifies the overarching values and principles that are important to the organization and its decision making.|code of ethics
+an organization reviews how well it is meeting its ethical and social responsibility goals and communicates its new goals for the upcoming year.|social audit
+Some of the actions corporations can take to improve business ethics.|Appoint a Corporate Ethics Officer|Require the Board of Directors to Set and Model High Ethical Standards|Establish a Corporate Code of Ethics|Conduct Social Audits|Require Employees to Take Ethics Training|Include Ethical Criteria in Employee Appraisals|Create an Ethical Work Environment
+Is the act of stealing software that is legally protected. This stealing includes copying, distributing, modifying or selling the software.|Software piracy
+is information, generally unknown to the public, that a company has taken strong measures to keep confidential|Trade secret
+It is an effort by an employee to attract attention to a negligent, illegal, unethical, abusive, or dangerous act by a company that threatens the public interest.|Whistleblowing
+A conflict between the IT worker’s or firm’s self-interest and the client’s interests.|Conflict of interest
+Is the crime of obtaining goods, services, or property through deception or trickery.|Fraud
+Is the misstatement or incomplete statement of a material fact.|Misrepresentation
+This occurs when one party fails to meet the terms of a contract.|Breach of contract
+occurs when a party fails to perform certain express or implied obligations, which impairs or destroys the essence of the contract.|material breach of contract
+Changes to the scope of the project or the system requirements can result in cost overruns, missed deadlines, and a project that fails to meet end-user expectations.|Scope creep
+Miscommunication or a lack of communication between customer and vendor can lead to a system whose performance does not meet expectations.|Poor communication
+The vendor delivers a system that meets customer requirements, but a competitor comes out with a system that offers more advanced and useful features.|Delivery of an obsolete solution
+If a customer fails to reveal information about legacy systems or databases that must connect with the new hardware or software at the start of a project, implementation can become extremely difficult.|Legacy systems
+The act of providing money, property, or favors to someone in business or government in order to obtain a business advantage.|Bribery
+Which involves lying on a résumé (claiming competence in an IT skill that is in high demand)|Resume inflation
+IT workers may have access to corporate databases of private and confidential information about employees, customers, suppliers, new product plans, promotions, budgets, etc. and it might be sold to other organizations or shared informally during work conversations with others who have no need to know.|Inappropriate sharing of corporate information
+refers to a person who uses a hardware or software product.|IT User
+have a duty to understand a user’s needs and capabilities and to deliver products and services that best meet those needs.|IT worker
+is one who possesses the skill, good judgment, and work habits expected from a person who has the training and experience to do a job well.|Professional
+states the principles and core values that are essential to the work of a particular occupational group.|professional code of ethics
+indicates that a professional possesses a particular set of skills, knowledge, or abilities, in the opinion of the certifying organization.|Certification
+is generally administered at the state level and often requires that the recipient pass a test of some kind.|Licensing
+is a document that stipulates restrictions and practices that a user must agree to in order to use organizational computing and network resources.|Acceptable use policy
+is hardware or software (or a combination of both) that serves as the first line of defense between an organization’s network and the Internet.|Firewall
+means to be in accordance with established policies, guidelines, specifications, or legislation.|Compliance

@@ -1,0 +1,40 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+@media screen and (min-width: 100px) and (max-width: 500px) {
+    .small-container {
+        width: 300px;
+    }
+}
+
+@media screen and (min-width: 500px) {
+    .small-container {
+        width: 500px;
+    }
+}
+
+#creator {
+    font-size: 15px;
+    line-height: 50px;
+    color: white;
+    text-decoration: none;
+}
+
+.footer-creator {
+    height: 50px;
+    background-color: #2B3035;
+}
+
+.bd-callout-info {
+    --bd-callout-bg: var(--bs-info-bg-subtle);
+    --bd-callout-border: var(--bs-info-border-subtle);
+}
+
+.bd-callout {
+    padding: 1.25rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    background-color: var(--bd-callout-bg, var(--bs-gray-100));
+    border-left: 0.25rem solid var(--bd-callout-border, var(--bs-gray-300));
+}
